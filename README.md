@@ -4,4 +4,5 @@
 
 ----
 
-https://www.udemy.com/course/2021-computer-vision-opencv-a-ztm/?referralCode=9E65AE8D62503FE948AC
+## :boom: **[[2021] Computer Vision - OpenCV A-Z™](https://www.udemy.com/course/2021-computer-vision-opencv-a-ztm/?referralCode=9E65AE8D62503FE948AC)** :metal: :sunglasses:
+
