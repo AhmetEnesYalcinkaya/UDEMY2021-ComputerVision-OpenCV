@@ -8,6 +8,8 @@
 
 ### BU KURSTA NELER ÖĞRENECEĞİM? :key:
 
+
+
 Python OpenCV ile Görüntü İşleme Kursuna Hoşgeldiniz !
 
 Bu kursumuz Python programlama dili ile Görüntü İşleme tekniklerinin anlatıldığı önemli kaynaklardan birisi. 
