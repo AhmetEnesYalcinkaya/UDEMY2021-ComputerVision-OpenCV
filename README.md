@@ -1,6 +1,6 @@
 <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6pnP7ogI1KRCFoUL93oXbQGOabDnIkhIxZ2lsGzdxdJ2G88dSYh8ja7gJw4j9Uhwm-Cs&usqp=CAU">
 
-# Udemy OpenCV ile Görüntü İşleme Giriş :heavy_check_mark:
+# Udemy OpenCV ile Görüntü İşleme Giriş 
 
 ----
 
